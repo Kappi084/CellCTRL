@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.6"
     },
-    "CreationDate": "2026-02-21T20:52:03+01:00"
+    "CreationDate": "2026-02-22T19:23:36+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -71,12 +71,12 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MPC01-F_SilkS.gbr",
+      "Path": "MPC01-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MPC01-B_SilkS.gbr",
+      "Path": "MPC01-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
