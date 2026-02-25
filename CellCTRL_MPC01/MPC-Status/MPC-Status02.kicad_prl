@@ -50,7 +50,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffae",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffaf",
     "zone_display_mode": 0
   },
   "git": {
@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "MPC-Status.kicad_prl",
+    "filename": "MPC-Status02.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -92,18 +92,18 @@
       11
     ],
     "col_widths": [
-      186,
-      171,
-      112,
-      87,
-      112,
-      122,
-      112,
-      91,
-      112,
-      112,
-      112,
-      112
+      222,
+      207,
+      136,
+      99,
+      136,
+      140,
+      136,
+      105,
+      136,
+      136,
+      136,
+      136
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
