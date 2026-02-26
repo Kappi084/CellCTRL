@@ -1,0 +1,11 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# OS / Sonstiges
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
