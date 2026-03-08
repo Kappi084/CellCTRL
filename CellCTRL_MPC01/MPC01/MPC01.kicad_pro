@@ -526,6 +526,7 @@
       "DIR4": "rgb(0, 255, 255)",
       "ENABLE": "rgb(255, 255, 0)",
       "GND": "rgb(194, 194, 194)",
+      "Net-(A1-B2)": "rgb(0, 255, 255)",
       "RS485_A": "rgb(0, 255, 0)",
       "RS485_B": "rgb(0, 255, 0)",
       "RS485_DE{slash}RE": "rgb(0, 255, 0)",
@@ -534,7 +535,8 @@
       "STEP1": "rgb(0, 255, 255)",
       "STEP2": "rgb(0, 255, 255)",
       "STEP3": "rgb(0, 255, 255)",
-      "STEP4": "rgb(0, 255, 255)"
+      "STEP4": "rgb(0, 255, 255)",
+      "unconnected-(A4-5V-Pad5V1)": "rgb(0, 255, 255)"
     },
     "netclass_assignments": null,
     "netclass_patterns": []
