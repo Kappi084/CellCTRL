@@ -1,0 +1,212 @@
+(footprint "DC-DC Step Down Buck Converter (6~24V to 5V16A)"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "BC**"
+		(at 0.25 -18 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0c03c8aa-c41f-41da-b512-2d7842724677")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "DC-DC Step Down Buck Converter (6~24V to 5V16A)"
+		(at 0.25 -16.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "730cade2-7999-41f6-9f53-9c862f460ff7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -14.75 13 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e3ecf98-ca12-4199-8e12-6fa21bcd118b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "https://www.dfrobot.com/product-2907.html"
+		(at -14.75 13 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "406da8ff-9704-4a5c-9c52-b6d417694f2f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -15.75 -13)
+		(end 15.75 13)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d789383d-a44f-4425-b286-65f455cea1ff")
+	)
+	(fp_rect
+		(start -16 -13.5)
+		(end 16 13.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "f042b009-76cf-4910-9ce2-9526f0a34a25")
+	)
+	(fp_text user "Input +"
+		(at -21.75 -10 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "181f17fc-54c5-4c7f-b380-e30eecacf7aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "Output +"
+		(at -22.75 10.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "362e9321-f933-4d4b-9713-cfbf418f592c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "GND"
+		(at -19.25 0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "5fc77063-8b64-47fd-b7c0-9ec893ec6c50")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "PGOOD"
+		(at 16.25 -3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "94189686-5cc6-4dd1-a46b-92edcd362d43")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "EN"
+		(at 16.25 -10 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c459f1c5-a926-4a4d-ad00-bd0c7e1383cc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "AGND"
+		(at 16.25 -6.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "dd1d0641-7cf7-4fe7-8927-76657abdb83a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.25 -15 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1015bfcd-4b64-407e-885d-309cb34860f8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -13.75 -10.5)
+		(size 3 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste" "Eco2.User")
+		(roundrect_rratio 0.15)
+		(uuid "eb40e1ca-535d-49ca-ba2d-9408ae3e5205")
+	)
+	(pad "2" smd roundrect
+		(at -13.75 0)
+		(size 3 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "6daa3aa7-416a-47fa-9d0b-0e01c5f19f64")
+	)
+	(pad "3" smd roundrect
+		(at -13.75 10)
+		(size 3 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "5d82fc18-0c8f-42e7-81d4-1285a08e7cb5")
+	)
+	(pad "4" smd roundrect
+		(at 14.25 -10)
+		(size 2 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "b4ba7007-70b3-4386-a385-e02661908677")
+	)
+	(pad "5" smd roundrect
+		(at 14.25 -6.5)
+		(size 2 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "039a4021-706b-4b3d-9e74-50c9b0113100")
+	)
+	(pad "6" smd roundrect
+		(at 14.25 -3.5)
+		(size 2 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "12d10d03-3ec3-4cc4-a5b3-a2f02e59b909")
+	)
+	(embedded_fonts no)
+)
