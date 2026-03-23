@@ -1,0 +1,63 @@
+### Footprint positions - created on 2026-03-19T13:36:57+0100 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                      Package                                                         PosX       PosY       Rot  Side
+A1        TMC2209                  TMC2209                                                      97.7600   -41.1000    0.0000  top
+A2        TMC2209                  TMC2209                                                      90.8400   -63.7600    0.0000  top
+A3        TMC2209                  TMC2209                                                     116.7600   -63.7600    0.0000  top
+A4        Arduino_Uno_R3_Shield    Arduino_Uno_R3_Shield                                        70.0000   -90.0000    0.0000  top
+BC1       ~                        DC-DC_Step_Down_Buck_Converter_(6~24V_to_5V16A)              75.0000   -71.0000  -90.0000  top
+C1        100uf                    CP_Elec_6.3x7.7                                             106.7600   -56.6000  -90.0000  top
+C2        1uF                      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                 108.2600   -42.4000    0.0000  top
+C3        4,7uF                    C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                 101.7600   -57.1000   90.0000  top
+C4        100uf                    CP_Elec_6.3x7.7                                              99.8400   -79.2600  -90.0000  top
+C5        1uF                      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                 101.3400   -64.9600    0.0000  top
+C6        4,7uF                    C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                  94.8400   -79.7600   90.0000  top
+C7        100uf                    CP_Elec_6.3x7.7                                             125.7600   -79.2600  -90.0000  top
+C8        1uF                      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                 127.2600   -64.9600    0.0000  top
+C9        4,7uF                    C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                 120.7600   -79.7600   90.0000  top
+C10       100n                     C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                 129.6000   -42.9000  180.0000  top
+D1        SM712_SOT23              SOT-23-3                                                    137.5000   -41.9000   90.0000  top
+D2        D_TVS                    D_SMB_Handsoldering                                          76.0000   -40.5000    0.0000  top
+D3        STPS20SM60SG             TO-263-2_TabPin2                                             88.0000   -49.0000    0.0000  top
+F1        10A_Sicherung_Verpolung  Fuseholder_Littelfuse_Nano2_157x                             75.6000   -49.0000  -90.0000  top
+J1        StepMotor_1              JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical                       116.7600   -55.1000   90.0000  top
+J2        StepMotor_2              JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical                       110.0000   -77.7600   90.0000  top
+J3        StepMotor_3              JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical                       135.6000   -76.5000   90.0000  top
+J4        Conn_01x03_Pin           PhoenixContact_MSTBA_2,5_3-G-5,08_1x03_P5.08mm_Horizontal   142.0000   -53.0000   90.0000  top
+J5        I2C                      JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical                       148.0000   -84.0000  180.0000  top
+J6        Endstop_X                JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical                       143.0000   -75.5000    0.0000  top
+J7        Power_24V                TerminalBlock_WAGO_2601-1102_1x02_P3.50mm_Horizontal         67.5675   -51.2100   90.0000  top
+J8        0Ohm_Jumper              PinHeader_1x02_P2.54mm_Vertical                             123.0000   -45.0000  180.0000  top
+J9        Endstop_Y                JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical                       143.0000   -68.0000    0.0000  top
+J10       Enable/Disable           JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical                       124.0000   -58.0000    0.0000  top
+J11       Endstop_Z                JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical                       143.0000   -60.5000    0.0000  top
+JP1       MS1                      PinHeader_1x02_P2.54mm_Vertical                             102.4600   -49.0000   90.0000  top
+JP2       MS1                      PinHeader_1x02_P2.54mm_Vertical                              95.5400   -71.6600   90.0000  top
+JP3       MS1                      PinHeader_1x02_P2.54mm_Vertical                             121.4600   -71.6600   90.0000  top
+JP4       MS2                      PinHeader_1x02_P2.54mm_Vertical                             102.4600   -45.4000   90.0000  top
+JP5       MS2                      PinHeader_1x02_P2.54mm_Vertical                              95.5400   -68.0600   90.0000  top
+JP6       MS2                      PinHeader_1x02_P2.54mm_Vertical                             121.4600   -68.0600   90.0000  top
+JP7       Jumper_3_Open            Jumper_3_NO                                                  96.7600   -51.6000  -90.0000  top
+JP8       Jumper_3_Open            Jumper_3_NO                                                  89.8400   -74.2600  -90.0000  top
+JP9       Jumper_3_Open            Jumper_3_NO                                                 115.7600   -74.2600  -90.0000  top
+R1        10K                      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                  89.8400   -66.7600  -90.0000  top
+R2        10K                      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                  96.7600   -48.1000   90.0000  top
+R3        10K                      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                  96.7600   -44.1000  -90.0000  top
+R4        10K                      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                  89.8400   -70.7600   90.0000  top
+R5        10K                      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                 115.7600   -70.7600   90.0000  top
+R6        10K                      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                 115.7600   -66.7600  -90.0000  top
+R7        1K                       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                  96.7600   -55.1000  -90.0000  top
+R8        1K                       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                  89.8400   -77.7600  -90.0000  top
+R9        1K                       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                 115.7600   -77.7600  -90.0000  top
+R10       10R                      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                 134.6000   -50.2000  -90.0000  top
+R11       120R                     R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                 136.6000   -46.2000   90.0000  top
+R12       10R                      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                 134.6000   -46.2000   90.0000  top
+R13       10K                      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                 129.6000   -52.2000    0.0000  top
+R14       10K                      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                 116.0000   -59.2000  180.0000  top
+R15       1K                       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                 118.0000   -61.3000    0.0000  top
+R16       1K                       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                 118.8000   -43.5000    0.0000  top
+R17       1K                       R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                 118.8000   -41.4000    0.0000  top
+U1        TP8485E-SR               SOP-8_3.76x4.96mm_P1.27mm                                   129.6000   -48.2000    0.0000  top
+## End
