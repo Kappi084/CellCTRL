@@ -74,6 +74,18 @@ Der MPC_Servo Controller wird über I2C angesteuert, und kann entweder zwei Serv
 
 #### Schnittstellenbescreibung:
 
+| Address | Name        | R/W | Description              |
+|--------|------------|-----|--------------------------|
+| 0x00   | Mode     | R/W   | 0=Dual Servo, 1=Servo+Endstop   |
+| 0x01   | Servo1 POS    | R/W | Servo 1 Zielwinkel  (0-180)         |
+| 0x02   | Servo2 POS    | R/W | Servo 2 Zielwinkel  (nur Mode 0)         |
+| 0x03   | Servo1 CUR   | R   | Servo 1 aktueller Winkel        |
+| 0x04   | Servo2 CUR   | R   | Servo 2 aktueller Winkel        |
+| 0x05   | Endstop   | R   | Endstop 0=offen, 1=ausgeloest        |
+| 0x06   | Home CMD   | W   | 1=Homing starten        |
+| 0x07   | Home Status   | R   | 0=idle 1=running 2=done 3=error        |
+| 0x08   | Status   | R   | bit0=alive        |
+| 0x09   | FW Version   | R   | Firmware-Version        |
 
 
 ## MPC_Status
