@@ -528,7 +528,7 @@
       "plot": "Manufactoring/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "MPC_Servo.step",
       "svg": "",
       "vrml": ""
     },

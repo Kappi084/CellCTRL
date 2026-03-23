@@ -528,7 +528,7 @@
       "plot": "Manufacturing/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "MPC-Status.step",
       "svg": "",
       "vrml": ""
     },

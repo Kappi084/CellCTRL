@@ -549,7 +549,7 @@
       "plot": "Manufacturing/",
       "pos_files": "./",
       "specctra_dsn": "",
-      "step": "",
+      "step": "MPC01.step",
       "svg": "",
       "vrml": ""
     },
