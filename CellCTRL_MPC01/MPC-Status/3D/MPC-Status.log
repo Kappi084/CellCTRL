@@ -1,0 +1,85 @@
+STEP in Solid Edge konvertieren
+Datum: Montag,März 23,2026 11:37AM
+Quelldatei: C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\MPC-Status.step
+Autor: Pcbnew
+Organisation: Kicad
+Ausgangssystem: KiCad to STEP converter
+
+Hardware:
+Prozessor: AMD Ryzen 5 4500U with Radeon Graphics         
+Betriebssystem: Windows 11 Version:25H2 Build:26200 System Type:64-bit
+Installierter Speicher: 7.41 GB
+
+Software-Informationen
+Parasolid-Version: 38.0.150
+PSBodyShop-Version: 38.0.111
+Step-Adapterversion: 1700.0.0
+Solid Edge-Version: 226.00.01.004 x64
+
+Step-Importoptionen
+Facettierte Körper importieren: Ein
+Prüfkörper importieren: Aus
+Kurven importieren: Ein
+DoNotSave importieren: Ein
+Mehrere Körper als Einzelteildatei importieren: Ein
+Importoptimierung:Aus
+Flächenvernähung importieren: Ein
+Boolesche Körper importieren: Ein
+Basisformelement erstellen: Ein
+Geometrie vereinfachen: Ein
+Druckkurven importieren: Ein
+Führung importieren: C:
+Flächenvernähung importieren: Ein
+Flächen importieren: Ein
+Ausgabepfad importieren: C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D
+Aktivieren des standardmäßigen Ausgabepfads importieren: Ein
+PMI importieren: Aus
+Als interne Komponenten importieren: Aus
+Pfad importieren: 
+
+Übersetzen in Parasolid-Datentypen...
++Baugruppe 1 beginnen
++SE Assembly-Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\MPC-Status.asm wurde erstellt
+|--+SE Part-Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.par wurde erstellt
+|--+SE Part-Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\C_0805_2012Metric.par wurde erstellt
+|--+SE Part-Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\SOIC-8_3.9x4.9mm_P1.27mm.par wurde erstellt
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.par wird wiederholt verwendet
+|--+SE Part-Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\PinHeader_1x02_P2.54mm_Vertical.par wurde erstellt
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\C_0805_2012Metric.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\C_0805_2012Metric.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\C_0805_2012Metric.par wird wiederholt verwendet
+|--+SE Part-Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\R_0805_2012Metric.par wurde erstellt
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\R_0805_2012Metric.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\C_0805_2012Metric.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.par wird wiederholt verwendet
+|--+SE Part-Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\Fuse_0805_2012Metric.par wurde erstellt
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\C_0805_2012Metric.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\C_0805_2012Metric.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\C_0805_2012Metric.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\C_0805_2012Metric.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\C_0805_2012Metric.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\C_0805_2012Metric.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\C_0805_2012Metric.par wird wiederholt verwendet
+|--+SE Part-Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\PinHeader_1x04_P2.54mm_Vertical.par wurde erstellt
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\R_0805_2012Metric.par wird wiederholt verwendet
+|--+SE Part-Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\CP_Elec_6.3x5.4.par wurde erstellt
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\R_0805_2012Metric.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\C_0805_2012Metric.par wird wiederholt verwendet
+|--+Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.par wird wiederholt verwendet
+|--+SE Part-Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical.par wurde erstellt
+|--+SE Part-Datei C:\Users\jonak\Documents\Fertig\CellCTRL\CellCTRL_MPC01\MPC-Status\3D\MPC-Status_PCB.par wurde erstellt
++Gesamtzahl der Teile: 46
++Baugruppen: 0
++Volumenkörper: 46
++Flächenkörper: 0
++Baugruppe 1 beenden
+Konvertierungsvorgang ist abgeschlossen
+Zur Übersetzung und Nachbearbeitung erforderte Gesamtzeit:00 : 00 : 02
